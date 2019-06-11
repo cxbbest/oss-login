@@ -11,6 +11,7 @@ class Config
     const CRYPT_KEY = 'sing_login';
     const CRYPT_METHOD = 'AES-128-CBC';
 
+    //URL
     const BAS_URL = 'http://sso-main.test';
     const TWO_URL = 'http://sso-next.test';
 
